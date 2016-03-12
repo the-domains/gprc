@@ -1,7 +1,7 @@
 name: GPRC
 favicon: null
-layout_spectrum: 0.45532731455750763
-typography_spectrum: 0.4941989432554692
+layout_spectrum: 1
+typography_spectrum: 0.85069
 cta:
   domain: null
   bucket: null
